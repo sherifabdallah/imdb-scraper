@@ -2,6 +2,9 @@ import pandas as pd
 import streamlit as st
 
 
+st.set_page_config(page_title='IMDB (2021 - 2022) Data Visualize', page_icon='Photos/Logo.png')
+
+
 option = st.sidebar.selectbox(('Choose a Data'), ("Years" , "Production", "Certificate", "Stars"))
 
 
