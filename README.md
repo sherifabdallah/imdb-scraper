@@ -51,4 +51,4 @@ session operates in a virtual environment set up by `virtualenv`.
 * And navigate to `http://127.0.0.1:8000`.
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
